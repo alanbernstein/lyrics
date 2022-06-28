@@ -1,4 +1,0 @@
----
-deployment:
-  tasks:
-    - /bin/cp index.html /home/alanb0/public_html/lyrics/
